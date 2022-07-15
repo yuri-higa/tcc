@@ -1,0 +1,732 @@
+X,X.1,gbifID,occurrenceID,species,decimallongitude,decimallatitude,homepolygon,homepolygon.1,
+248,678,3635,2308877249,JQ710547,Cordia alliodora,-59.37,2.19,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+249,679,3637,2308387647,JQ710511,Cordia alliodora,-53.2,3.58,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+250,682,3641,2307994119,JQ710569,Cordia alliodora,-53.2,3.58,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+251,684,3644,2307862168,JQ710550,Cordia alliodora,-60.2,6.97,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+252,687,3654,2305501750,JQ710540,Cordia alliodora,-55,4.95,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+253,691,3661,2304488101,JQ710522,Cordia alliodora,-58.95,4.4,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+575,690,3660,2304543676,JQ710572,Cordia alliodora,-64,7,Tropical & Subtropical Moist Broadleaf Forests,Guianan piedmont moist forests
+576,692,3662,2304458875,JQ710521,Cordia alliodora,-64,7,Tropical & Subtropical Moist Broadleaf Forests,Guianan piedmont moist forests
+1696,681,3640,2308058754,JQ710557,Cordia alliodora,-76,-6.58,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1697,683,3642,2307976919,JQ710544,Cordia alliodora,-76,-6.58,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+601,854,3960,2310720830,LT630625,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+602,855,3961,2310198412,LT630644,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+603,856,3962,2309781827,LT630623,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+604,857,3963,2309693182,LT630682,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+605,858,3964,2309476369,LT630680,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+606,859,3965,2308544756,LT630642,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+607,860,3966,2305353061,LT630663,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+608,861,3967,2304929515,LT630661,Cyperus articulatus,-73.85,-10.67,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+609,1251,5136,2311023752,KJ734332,Ficus insipida,-73.17,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+610,1255,5140,2310958917,KJ734323,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+611,1259,5144,2310881981,KJ734498,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+612,1260,5145,2310852211,KJ734328,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+613,1265,5150,2310791268,KJ734327,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+614,1272,5157,2310705970,KJ734320,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+615,1277,5162,2310650938,KJ734335,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+616,1279,5164,2310636366,KJ734321,Ficus insipida,-72.24,-3.61,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+617,1283,5168,2310452195,KJ734330,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+618,1286,5171,2310425292,KJ734372,Ficus insipida,-75.06,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+619,1289,5174,2310411319,KJ734374,Ficus insipida,-75.05,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+620,1294,5179,2310355971,KJ734334,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+621,1314,5200,2309903126,KJ734525,Ficus insipida,-75.05,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+622,1333,5219,2309544768,KJ734507,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+623,1343,5229,2309367983,KJ734375,Ficus insipida,-75.05,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+624,1347,5233,2309218168,KJ734331,Ficus insipida,-73.17,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+625,1348,5234,2309200126,KJ734324,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+626,1349,5235,2309183089,KJ734499,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+627,1353,5239,2309070960,KJ734336,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+628,1357,5243,2308834387,KJ734371,Ficus insipida,-75.05,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+629,1369,5255,2308621777,KJ734333,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+630,1371,5257,2308529398,KJ734526,Ficus insipida,-75.05,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+631,1372,5258,2308479547,KJ734329,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+632,1377,5263,2308405708,KJ734322,Ficus insipida,-72.24,-3.61,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+633,1380,5266,2308373700,KJ734326,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+634,1393,5282,2307773829,KJ734325,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+635,1397,5287,2307577737,KJ734504,Ficus insipida,-73.17,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+636,1405,5295,2307476368,KJ734373,Ficus insipida,-75.06,-8.83,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+637,1409,5299,2307403993,KJ734505,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+638,1410,5300,2307342721,KJ734501,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+639,1412,5303,2307324008,KJ734506,Ficus insipida,-73.16,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+640,1418,5310,2307077971,KJ734503,Ficus insipida,-73.17,-4.05,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+641,1447,5341,2306016445,KJ734500,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+642,1472,5368,2304909548,KJ734502,Ficus insipida,-72.24,-3.62,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+908,1244,5129,2311160833,KJ734298,Ficus insipida,-77.62,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+909,1248,5133,2311073170,KJ734297,Ficus insipida,-77.62,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+910,1262,5147,2310823154,KJ734491,Ficus insipida,-76.47,-0.69,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+911,1325,5211,2309651500,KJ734296,Ficus insipida,-77.61,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+912,1327,5213,2309617185,KJ734299,Ficus insipida,-77.61,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+913,1375,5261,2308433573,KJ734490,Ficus insipida,-77.6,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+914,1383,5269,2308338764,KJ734295,Ficus insipida,-77.61,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+915,1385,5272,2308251933,KJ734492,Ficus insipida,-76.4,-0.66,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+916,1389,5277,2308010308,KJ734488,Ficus insipida,-77.59,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+917,1399,5289,2307536323,KJ734302,Ficus insipida,-77.6,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+918,1407,5297,2307433900,KJ734486,Ficus insipida,-77.62,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+919,1415,5306,2307244668,KJ734305,Ficus insipida,-76.47,-0.69,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+920,1420,5312,2306984131,KJ734307,Ficus insipida,-76.48,-0.7,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+921,1429,5322,2306578968,KJ734300,Ficus insipida,-77.6,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+922,1436,5329,2306465148,KJ734306,Ficus insipida,-76.4,-0.66,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+923,1448,5342,2305917952,KJ734303,Ficus insipida,-77.59,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+924,1452,5346,2305817583,KJ734308,Ficus insipida,-76.48,-0.7,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+925,1460,5354,2305503508,KJ734489,Ficus insipida,-77.59,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+926,1473,5369,2304870540,KJ734301,Ficus insipida,-77.6,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+927,1479,5375,2304538814,KJ734304,Ficus insipida,-77.59,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+928,1484,5380,2304229713,KJ734485,Ficus insipida,-77.6,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+929,1485,5381,2304223604,KJ734487,Ficus insipida,-77.61,-1.06,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+1134,1263,5148,2310805843,KJ734497,Ficus insipida,-72.84,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1135,1268,5153,2310762094,KJ734494,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1136,1269,5154,2310748350,KJ734493,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1137,1270,5155,2310740178,KJ734313,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1138,1284,5169,2310448538,KJ734316,Ficus insipida,-72.84,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1139,1285,5170,2310431585,KJ734310,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1140,1290,5175,2310394266,KJ734317,Ficus insipida,-72.84,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1141,1291,5176,2310376512,KJ734495,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1142,1319,5205,2309777052,KJ734318,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1143,1322,5208,2309741221,KJ734496,Ficus insipida,-72.84,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1144,1323,5209,2309707637,KJ734319,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1145,1360,5246,2308767900,KJ734314,Ficus insipida,-72.84,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1146,1364,5250,2308685358,KJ734315,Ficus insipida,-72.84,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1147,1370,5256,2308615074,KJ734311,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1148,1392,5280,2307915674,KJ734312,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1149,1470,5366,2304987870,KJ734309,Ficus insipida,-72.85,-3.44,Tropical & Subtropical Moist Broadleaf Forests,Solimões-Japurá moist forests
+1159,1243,5128,2311161512,KJ734443,Ficus insipida,-67.46,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1160,1245,5130,2311159427,KJ734338,Ficus insipida,-73.73,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1161,1252,5137,2310999073,KJ734413,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1162,1253,5138,2310977009,KJ734446,Ficus insipida,-67.46,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1163,1256,5141,2310928821,KJ734419,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1164,1258,5143,2310886303,KJ734548,Ficus insipida,-69.59,-13.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1165,1264,5149,2310800189,KJ734444,Ficus insipida,-67.45,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1166,1266,5151,2310783928,KJ734546,Ficus insipida,-71.37,-12.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1167,1271,5156,2310734952,KJ734542,Ficus insipida,-71.36,-11.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1168,1274,5159,2310667106,KJ734464,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1169,1275,5160,2310658905,KJ734386,Ficus insipida,-75.35,-11,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1170,1276,5161,2310652986,KJ734535,Ficus insipida,-74.64,-11.16,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1171,1278,5163,2310641081,KJ734534,Ficus insipida,-74.64,-11.16,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1172,1280,5165,2310522337,KJ734459,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1173,1282,5167,2310457470,KJ734408,Ficus insipida,-71.36,-11.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1174,1288,5173,2310411800,KJ734536,Ficus insipida,-74.66,-11.18,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1175,1292,5177,2310359366,KJ734416,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1176,1293,5178,2310357811,KJ734418,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1177,1296,5181,2310320777,KJ734463,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1178,1299,5184,2310220401,KJ734541,Ficus insipida,-71.36,-11.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1179,1301,5186,2310169226,KJ734415,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1180,1302,5187,2310164452,KJ734337,Ficus insipida,-73.73,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1181,1303,5188,2310138987,KJ734466,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1182,1306,5191,2310110308,KJ734411,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1183,1308,5193,2310053178,KJ734538,Ficus insipida,-74.65,-11.17,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1184,1311,5197,2309929651,KJ734441,Ficus insipida,-67.47,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1185,1313,5199,2309909355,KJ734442,Ficus insipida,-67.5,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1186,1317,5203,2309868757,KJ734543,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1187,1320,5206,2309761567,KJ734457,Ficus insipida,-64.78,-17,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1188,1321,5207,2309760388,KJ734465,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1189,1324,5210,2309696667,KJ734410,Ficus insipida,-71.36,-11.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1190,1329,5215,2309587035,KJ734417,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1191,1330,5216,2309575258,KJ734461,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1192,1331,5217,2309573722,KJ734547,Ficus insipida,-70.41,-13.5,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1193,1332,5218,2309572358,KJ734412,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1194,1335,5221,2309513378,KJ734544,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1195,1338,5224,2309458942,KJ734545,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1196,1340,5226,2309447446,KJ734458,Ficus insipida,-64.78,-17,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1197,1341,5227,2309411106,KJ734532,Ficus insipida,-75.35,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1198,1344,5230,2309302682,KJ734409,Ficus insipida,-71.36,-11.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1199,1355,5241,2308965030,KJ734462,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1200,1356,5242,2308963182,KJ734342,Ficus insipida,-73.71,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1201,1359,5245,2308774470,KJ734414,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1202,1361,5247,2308719155,KJ734407,Ficus insipida,-71.36,-11.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1203,1362,5248,2308705643,KJ734460,Ficus insipida,-64.78,-17.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1204,1366,5252,2308666105,KJ734540,Ficus insipida,-71.36,-11.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1205,1368,5254,2308645883,KJ734531,Ficus insipida,-75.35,-11.09,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1206,1373,5259,2308449976,KJ734392,Ficus insipida,-75.35,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1207,1374,5260,2308439169,KJ734537,Ficus insipida,-74.65,-11.18,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1208,1378,5264,2308399046,KJ734339,Ficus insipida,-73.73,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1209,1379,5265,2308380189,KJ734539,Ficus insipida,-71.36,-11.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1210,1381,5267,2308373690,KJ734533,Ficus insipida,-75.36,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1211,1382,5268,2308365415,KJ734554,Ficus insipida,-69.52,-12.05,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1212,1391,5279,2307921267,KJ734445,Ficus insipida,-67.45,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1213,1394,5284,2307666441,KJ734440,Ficus insipida,-69.01,-11.4,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1214,1395,5285,2307655704,KJ734555,Ficus insipida,-69.01,-11.41,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1215,1396,5286,2307580075,KJ734388,Ficus insipida,-75.35,-11,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1216,1398,5288,2307558930,KJ734395,Ficus insipida,-75.35,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1217,1400,5290,2307514344,KJ734345,Ficus insipida,-73.65,-4.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1218,1401,5291,2307494726,KJ734551,Ficus insipida,-70.1,-12.56,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1219,1402,5292,2307488296,KJ734550,Ficus insipida,-70.1,-12.56,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1220,1403,5293,2307486796,KJ734439,Ficus insipida,-69.01,-11.4,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1221,1404,5294,2307482192,KJ734393,Ficus insipida,-75.36,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1222,1406,5296,2307468652,KJ734431,Ficus insipida,-70.1,-12.5,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1223,1411,5301,2307338445,KJ734438,Ficus insipida,-69.01,-11.4,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1224,1413,5304,2307308195,KJ734424,Ficus insipida,-69.29,-12.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1225,1417,5309,2307117298,KJ734552,Ficus insipida,-70.1,-12.56,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1226,1421,5313,2306925727,KJ734509,Ficus insipida,-73.73,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1227,1424,5316,2306765539,KJ734390,Ficus insipida,-75.35,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1228,1425,5317,2306725864,KJ734512,Ficus insipida,-73.65,-4.89,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1229,1427,5319,2306697381,KJ734553,Ficus insipida,-70.1,-12.56,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1230,1428,5321,2306597894,KJ734421,Ficus insipida,-71.37,-12.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1231,1430,5323,2306564611,KJ734434,Ficus insipida,-69.52,-12,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1232,1432,5325,2306542897,KJ734433,Ficus insipida,-70.1,-12.5,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1233,1433,5326,2306493518,KJ734437,Ficus insipida,-69.01,-11.4,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1234,1434,5327,2306483508,KJ734435,Ficus insipida,-69.01,-11.4,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1235,1437,5330,2306435479,KJ734389,Ficus insipida,-75.35,-11,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1236,1438,5331,2306426260,KJ734430,Ficus insipida,-70.1,-12.5,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1237,1439,5332,2306371770,KJ734426,Ficus insipida,-69.29,-12.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1238,1441,5334,2306330044,KJ734510,Ficus insipida,-73.72,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1239,1443,5336,2306262025,KJ734391,Ficus insipida,-75.35,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1240,1444,5337,2306236563,KJ734387,Ficus insipida,-75.35,-11,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1241,1445,5338,2306208071,KJ734556,Ficus insipida,-67.47,-11.15,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1242,1446,5339,2306125063,KJ734427,Ficus insipida,-69.29,-12.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1243,1449,5343,2305890927,KJ734344,Ficus insipida,-73.7,-4.92,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1244,1456,5350,2305671772,KJ734549,Ficus insipida,-69.29,-12.84,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1245,1457,5351,2305535828,KJ734559,Ficus insipida,-64.78,-17.09,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1246,1458,5352,2305519826,KJ734429,Ficus insipida,-69.59,-13.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1247,1462,5356,2305480711,KJ734420,Ficus insipida,-71.37,-12.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1248,1464,5358,2305412100,KJ734340,Ficus insipida,-73.72,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1249,1465,5359,2305347234,KJ734425,Ficus insipida,-69.29,-12.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1250,1466,5360,2305198958,KJ734428,Ficus insipida,-69.59,-13.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1251,1467,5362,2305040085,KJ734436,Ficus insipida,-69.01,-11.4,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1252,1468,5363,2305011944,KJ734423,Ficus insipida,-69.29,-12.8,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1253,1469,5364,2305005474,KJ734511,Ficus insipida,-73.7,-4.92,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1254,1471,5367,2304951024,KJ734558,Ficus insipida,-64.78,-17.09,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1255,1474,5370,2304847686,KJ734508,Ficus insipida,-73.73,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1256,1476,5372,2304808913,KJ734394,Ficus insipida,-75.36,-11.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1257,1478,5374,2304557826,KJ734343,Ficus insipida,-73.71,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1258,1481,5377,2304481397,KJ734422,Ficus insipida,-70.41,-13.5,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1259,1486,5382,2304179003,KJ734341,Ficus insipida,-73.71,-4.91,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1260,1488,5384,2304161380,KJ734432,Ficus insipida,-70.1,-12.5,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1698,1240,5125,2311245698,KJ734379,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1699,1242,5127,2311196631,KJ734383,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1700,1246,5131,2311149136,KJ734530,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1701,1249,5134,2311032642,KJ734523,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1702,1250,5135,2311031159,KJ734524,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1703,1257,5142,2310890998,KJ734368,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1704,1287,5172,2310418905,KJ734380,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1705,1298,5183,2310280728,KJ734382,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1706,1300,5185,2310214311,KJ734376,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1707,1304,5189,2310132622,KJ734527,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1708,1305,5190,2310111264,KJ734377,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1709,1310,5196,2310000977,KJ734367,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1710,1318,5204,2309860756,KJ734522,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1711,1326,5212,2309621215,KJ734366,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1712,1337,5223,2309488702,KJ734370,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1713,1339,5225,2309456492,KJ734378,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1714,1345,5231,2309229967,KJ734528,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1715,1350,5236,2309178246,KJ734385,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1716,1352,5238,2309170525,KJ734381,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1717,1367,5253,2308659527,KJ734529,Ficus insipida,-75,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1718,1384,5270,2308317236,KJ734384,Ficus insipida,-75.01,-8.87,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1719,1386,5273,2308175676,KJ734351,Ficus insipida,-76.65,-6.29,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1720,1387,5274,2308155142,KJ734369,Ficus insipida,-75.05,-8.82,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1721,1388,5276,2308041942,KJ734354,Ficus insipida,-76.65,-6.28,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1722,1414,5305,2307254878,KJ734348,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1723,1422,5314,2306856820,KJ734516,Ficus insipida,-76.65,-6.28,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1724,1435,5328,2306465237,KJ734513,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1725,1442,5335,2306280786,KJ734515,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1726,1450,5344,2305885366,KJ734347,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1727,1451,5345,2305883322,KJ734350,Ficus insipida,-76.65,-6.29,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1728,1453,5347,2305787506,KJ734352,Ficus insipida,-76.65,-6.29,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1729,1455,5349,2305695608,KJ734349,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1730,1459,5353,2305512691,KJ734355,Ficus insipida,-76.65,-6.28,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1731,1461,5355,2305485161,KJ734514,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1732,1475,5371,2304847356,KJ734346,Ficus insipida,-76.65,-6.3,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1733,1487,5383,2304169493,KJ734353,Ficus insipida,-76.65,-6.29,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+315,2147,6857,2311140923,JN661798,Jacaranda copaia,-53.95,5.46,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+316,2152,6862,2308837242,JN661796,Jacaranda copaia,-52.8,4.36,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+317,2162,6872,2305486483,JN661781,Jacaranda copaia,-52.8,4.36,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+318,2166,6876,2305145631,JN661783,Jacaranda copaia,-53.95,5.46,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+789,2151,6861,2309014296,JN661799,Jacaranda copaia,-55.58,-3.07,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+790,2153,6863,2308299652,JN661797,Jacaranda copaia,-55.58,-3.07,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+791,2160,6870,2306185934,JN661782,Jacaranda copaia,-55.58,-3.07,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+792,2169,6879,2304512859,JN661784,Jacaranda copaia,-55.58,-3.07,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+931,2148,6858,2310323517,JN661791,Jacaranda copaia,-76.4,-0.66,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+932,2154,6864,2308147642,JN661792,Jacaranda copaia,-77.6,-1.07,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+933,2157,6867,2307503782,JN661804,Jacaranda copaia,-76.38,-0.66,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+934,2164,6874,2305204736,JN661789,Jacaranda copaia,-76.38,-0.66,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+935,2167,6877,2305017797,JN661806,Jacaranda copaia,-76.4,-0.66,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+936,2170,6880,2304176323,JN661807,Jacaranda copaia,-77.6,-1.07,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+1037,2159,6869,2306304851,JN661788,Jacaranda copaia,-64.75,-3.45,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1038,2168,6878,2304993703,JN661803,Jacaranda copaia,-64.75,-3.45,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1281,2149,6859,2309196057,JN661790,Jacaranda copaia,-69,-8.72,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1282,2165,6875,2305200507,JN661805,Jacaranda copaia,-69,-8.72,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1526,2150,6860,2309157044,JN661802,Jacaranda copaia,-59.97,-2.88,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1527,2155,6865,2307892163,JN661801,Jacaranda copaia,-59.97,-2.88,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1528,2156,6866,2307650112,JN661786,Jacaranda copaia,-59.97,-2.88,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1529,2158,6868,2307228508,JN661787,Jacaranda copaia,-59.97,-2.88,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1530,2161,6871,2306026639,JN661785,Jacaranda copaia,-59.97,-2.88,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1531,2163,6873,2305474756,JN661800,Jacaranda copaia,-59.97,-2.88,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+389,2799,28185,2310177617,EU872629,Pagamea guianensis,-55.18,5.47,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+390,2807,28198,2309911490,EU872828,Pagamea guianensis,-55.18,5.47,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+391,2809,28201,2309834181,EU872628,Pagamea guianensis,-55.18,5.47,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+392,2822,28216,2309556247,EU872910,Pagamea guianensis,-55.18,5.46,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+393,2839,28239,2308929283,EU872950,Pagamea guianensis,-55.18,5.47,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+394,2900,28310,2307143660,EU872829,Pagamea guianensis,-55.18,5.46,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+730,2786,28170,2310510227,EU872870,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+731,2806,28197,2309914120,EU872839,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+732,2831,28227,2309315854,EU872756,Pagamea guianensis,-64.93,-0.58,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+733,2834,28231,2309283461,EU872911,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+734,2841,28242,2308754753,EU872790,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+735,2857,28260,2308326592,KU159826,Pagamea guianensis,-60.73,-2.62,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+736,2859,28262,2308314954,EU872640,Pagamea guianensis,-64.93,-0.58,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+737,2868,28273,2308023612,KU159775,Pagamea guianensis,-61.78,-1.8,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+738,2876,28283,2307749711,KU159844,Pagamea guianensis,-60.12,-3.2,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+739,2887,28296,2307398311,KU159842,Pagamea guianensis,-60.12,-3.2,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+740,2890,28299,2307336615,KU159912,Pagamea guianensis,-64.76,-0.49,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+741,2896,28306,2307166324,EU872641,Pagamea guianensis,-64.93,-0.58,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+742,2901,28311,2307087641,KU159822,Pagamea guianensis,-60.99,-2.44,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+743,2908,28321,2306832390,KU159843,Pagamea guianensis,-60.12,-3.2,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+744,2910,28323,2306801252,KU160110,Pagamea guianensis,-63.48,-0.46,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+745,2918,28333,2306509537,EU872689,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+746,2919,28334,2306490832,EU872688,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+747,2920,28335,2306463910,KU159913,Pagamea guianensis,-64.76,-0.49,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+748,2926,28341,2306210153,KU159910,Pagamea guianensis,-64.76,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+749,2931,28348,2305966531,KU159909,Pagamea guianensis,-64.77,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+750,2932,28349,2305956816,KU159911,Pagamea guianensis,-64.76,-0.49,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+751,2940,28359,2305769211,KU159914,Pagamea guianensis,-64.76,-0.49,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+752,2941,28360,2305752381,KU159908,Pagamea guianensis,-64.76,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+753,2942,28361,2305678917,KU159827,Pagamea guianensis,-60.72,-2.63,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+754,2945,28364,2305618080,EU872851,Pagamea guianensis,-64.93,-0.58,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+755,2949,28368,2305527989,KU159837,Pagamea guianensis,-60.12,-3.2,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+756,2951,28370,2305450188,KU159838,Pagamea guianensis,-60.12,-3.2,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+757,2955,28374,2305413818,EU872687,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+758,2956,28376,2305353812,KU159915,Pagamea guianensis,-64.76,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+759,2963,28383,2305132995,EU872686,Pagamea guianensis,-67.4,0.56,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+760,2970,28393,2304816574,KU160109,Pagamea guianensis,-63.47,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+761,2975,28399,2304697476,KU159825,Pagamea guianensis,-60.73,-2.62,Tropical & Subtropical Moist Broadleaf Forests,Japurá-Solimões-Negro moist forests
+808,2772,28149,2311170819,EU872585,Pagamea guianensis,-65,-9.59,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+809,2773,28150,2311165144,EU872703,Pagamea guianensis,-64.95,-9.61,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+810,2779,28161,2310867653,KU159786,Pagamea guianensis,-59.96,-6.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+811,2784,28168,2310631313,EU872755,Pagamea guianensis,-60.62,-12.39,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+812,2801,28188,2310062313,KU159782,Pagamea guianensis,-59.96,-6.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+813,2802,28191,2310026816,KU159783,Pagamea guianensis,-59.96,-6.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+814,2821,28215,2309557192,EU872879,Pagamea guianensis,-60.62,-12.39,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+815,2832,28229,2309299539,KU159781,Pagamea guianensis,-59.96,-6.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+816,2844,28246,2308684792,EU872784,Pagamea guianensis,-65,-9.59,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+817,2845,28247,2308673747,KU159780,Pagamea guianensis,-59.96,-6.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+818,2853,28256,2308395484,KU159784,Pagamea guianensis,-59.96,-6.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+819,2856,28259,2308335299,KU160105,Pagamea guianensis,-60.62,-12.39,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+820,2891,28300,2307301833,KU159966,Pagamea guianensis,-62.15,-7.91,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+821,2899,28309,2307151546,EU872878,Pagamea guianensis,-65,-9.59,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+822,2903,28313,2307029180,KU159971,Pagamea guianensis,-62.28,-7.84,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+823,2905,28316,2307024268,KU159970,Pagamea guianensis,-62.28,-7.85,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+824,2943,28362,2305669164,KU159965,Pagamea guianensis,-62.15,-7.91,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+825,2954,28373,2305416693,KU159969,Pagamea guianensis,-62.28,-7.85,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+826,2966,28387,2305000538,EU872988,Pagamea guianensis,-64.95,-9.61,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+827,2982,28409,2304553954,KU159972,Pagamea guianensis,-62.28,-7.85,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+828,2989,28417,2304326143,KU159967,Pagamea guianensis,-62.15,-7.91,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+829,2990,28418,2304275358,KU159968,Pagamea guianensis,-62.15,-7.91,Tropical & Subtropical Moist Broadleaf Forests,Madeira-Tapajós moist forests
+848,2795,28181,2310286699,KU159937,Pagamea guianensis,-51.35,-0.65,Tropical & Subtropical Moist Broadleaf Forests,Marajó várzea
+849,2804,28195,2309999562,KU159935,Pagamea guianensis,-51.35,-0.65,Tropical & Subtropical Moist Broadleaf Forests,Marajó várzea
+850,2827,28222,2309394565,KU159936,Pagamea guianensis,-51.35,-0.65,Tropical & Subtropical Moist Broadleaf Forests,Marajó várzea
+851,2840,28240,2308909377,KU159938,Pagamea guianensis,-50.92,-1.42,Tropical & Subtropical Moist Broadleaf Forests,Marajó várzea
+852,2862,28265,2308152616,KU159939,Pagamea guianensis,-50.91,-1.43,Tropical & Subtropical Moist Broadleaf Forests,Marajó várzea
+896,2873,28280,2307800537,KU160028,Pagamea guianensis,-54.96,-9.02,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+897,2879,28287,2307595811,KU160038,Pagamea guianensis,-54.96,-8.84,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+898,2882,28290,2307556257,KU160029,Pagamea guianensis,-54.93,-9.04,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+899,2893,28303,2307250936,KU160036,Pagamea guianensis,-54.85,-9.39,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+900,2897,28307,2307158388,KU160037,Pagamea guianensis,-54.96,-8.84,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+901,2924,28339,2306250104,KU160034,Pagamea guianensis,-54.86,-9.53,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+902,2939,28357,2305786661,KU160035,Pagamea guianensis,-54.85,-9.39,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+903,2944,28363,2305642548,KU160033,Pagamea guianensis,-54.86,-9.53,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+904,2964,28384,2305086485,KU160030,Pagamea guianensis,-54.92,-9.05,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+905,2971,28394,2304805930,KU160032,Pagamea guianensis,-54.9,-9.16,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+906,2974,28398,2304698166,KU160031,Pagamea guianensis,-54.92,-9.05,Tropical & Subtropical Moist Broadleaf Forests,Mato Grosso tropical dry forests
+993,2774,28152,2311103664,EU872757,Pagamea guianensis,-65,-0.37,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+994,2787,28171,2310493938,EU872626,Pagamea guianensis,-63.16,-0.2,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+995,2803,28192,2310015325,EU872947,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+996,2805,28196,2309975618,EU872754,Pagamea guianensis,-63.16,-0.2,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+997,2818,28212,2309634266,EU872875,Pagamea guianensis,-63.16,-0.2,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+998,2889,28298,2307378573,EU872738,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+999,2892,28302,2307257584,EU872942,Pagamea guianensis,-65,-0.37,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1000,2894,28304,2307229135,KU159893,Pagamea guianensis,-64.83,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1001,2898,28308,2307157132,KU159907,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1002,2902,28312,2307037120,KU159906,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1003,2907,28318,2306876914,KU159904,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1004,2911,28325,2306693205,EU872735,Pagamea guianensis,-65,-0.37,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1005,2923,28338,2306349420,EU872571,Pagamea guianensis,-65,-0.37,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1006,2935,28352,2305910644,KU159889,Pagamea guianensis,-64.83,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1007,2938,28356,2305828031,KU159905,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1008,2946,28365,2305614254,EU872572,Pagamea guianensis,-65,-0.37,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1009,2960,28380,2305211828,KU159892,Pagamea guianensis,-64.83,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1010,2969,28392,2304851878,KU159890,Pagamea guianensis,-64.83,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1011,2978,28402,2304663881,EU872850,Pagamea guianensis,-65,-0.37,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1012,2979,28403,2304660523,KU159891,Pagamea guianensis,-64.83,-0.48,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1013,2986,28414,2304439175,KU159903,Pagamea guianensis,-64.93,-0.52,Tropical & Subtropical Moist Broadleaf Forests,Negro-Branco moist forests
+1081,2914,28328,2306623722,KU159839,Pagamea guianensis,-60.99,-4.82,Tropical & Subtropical Moist Broadleaf Forests,Purus-Madeira moist forests
+1113,2796,28182,2310273451,EU872742,Pagamea guianensis,-60.97,1.48,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1114,2838,28238,2308945329,EU872577,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1115,2860,28263,2308309431,EU872946,Pagamea guianensis,-60.97,1.48,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1116,2872,28278,2307830923,EU872889,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1117,2878,28286,2307603340,EU872934,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1118,2884,28293,2307464895,EU872576,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1119,2888,28297,2307392209,EU872574,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1120,2909,28322,2306814998,EU872575,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1121,2922,28337,2306414862,EU872805,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1122,2930,28347,2306023258,EU872890,Pagamea guianensis,-66.64,4.08,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1123,2936,28354,2305844670,EU872807,Pagamea guianensis,-66.64,4.08,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1124,2937,28355,2305841245,EU872806,Pagamea guianensis,-66.68,4.13,Tropical & Subtropical Moist Broadleaf Forests,Rio Negro campinarana
+1300,2792,28177,2310383984,EU872788,Pagamea guianensis,-73.63,-4.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1301,2828,28223,2309382417,EU872877,Pagamea guianensis,-73.63,-4.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1302,2867,28272,2308024178,EU872663,Pagamea guianensis,-73.63,-4.9,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1464,2810,28202,2309832641,KU159922,Pagamea guianensis,-53.57,-5.47,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1465,2916,28331,2306606826,KU159919,Pagamea guianensis,-53.35,-5.51,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1466,2933,28350,2305949265,KU159918,Pagamea guianensis,-53.35,-5.51,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1467,2965,28385,2305080056,KU159916,Pagamea guianensis,-53.11,-5.4,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1468,2976,28400,2304692844,KU159923,Pagamea guianensis,-53.57,-5.54,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1469,2977,28401,2304687451,KU159921,Pagamea guianensis,-53.57,-5.47,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1470,2984,28411,2304492041,KU159917,Pagamea guianensis,-53.11,-5.4,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1471,2988,28416,2304331445,KU159920,Pagamea guianensis,-53.34,-5.51,Tropical & Subtropical Moist Broadleaf Forests,Tapajós-Xingu moist forests
+1473,2814,28208,2309696460,EU872885,Pagamea guianensis,-48.39,-1.52,Tropical & Subtropical Moist Broadleaf Forests,Tocantins/Pindare moist forests
+1474,2866,28270,2308123423,EU872745,Pagamea guianensis,-48.39,-1.52,Tropical & Subtropical Moist Broadleaf Forests,Tocantins/Pindare moist forests
+1557,2775,28153,2311103487,KU159869,Pagamea guianensis,-53.62,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1558,2776,28156,2310974920,KU159868,Pagamea guianensis,-53.61,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1559,2777,28158,2310943033,EU872582,Pagamea guianensis,-51.39,0.73,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1560,2780,28162,2310820605,EU872593,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1561,2785,28169,2310533338,EU872589,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1562,2788,28173,2310480243,KU159867,Pagamea guianensis,-53.61,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1563,2789,28174,2310469993,EU872592,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1564,2798,28184,2310191011,EU872590,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1565,2800,28186,2310145981,EU872616,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1566,2811,28203,2309798508,EU872617,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1567,2813,28206,2309753210,EU872581,Pagamea guianensis,-51.39,0.73,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1568,2816,28210,2309653734,KU159866,Pagamea guianensis,-53.61,-1.66,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1569,2817,28211,2309650465,KU159863,Pagamea guianensis,-56.35,-1.5,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1570,2819,28213,2309614266,KU159931,Pagamea guianensis,-51.76,-0.23,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1571,2820,28214,2309566162,EU872948,Pagamea guianensis,-60.52,0.33,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1572,2823,28217,2309550292,EU872741,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1573,2824,28218,2309546147,KU159930,Pagamea guianensis,-51.76,-0.23,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1574,2825,28220,2309453726,KU159841,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1575,2826,28221,2309411929,EU872751,Pagamea guianensis,-51.39,0.73,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1576,2829,28224,2309366254,KU159785,Pagamea guianensis,-60.03,-2.02,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1577,2830,28226,2309327716,KU159865,Pagamea guianensis,-53.62,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1578,2833,28230,2309297292,KU159933,Pagamea guianensis,-51.76,-0.23,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1579,2836,28235,2309125352,EU872743,Pagamea guianensis,-60.52,0.33,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1580,2837,28237,2308994015,KU159932,Pagamea guianensis,-51.76,-0.23,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1581,2842,28244,2308708714,EU872591,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1582,2847,28249,2308627022,KU159870,Pagamea guianensis,-53.62,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1583,2848,28251,2308580395,KU159864,Pagamea guianensis,-53.61,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1584,2852,28255,2308454037,EU872884,Pagamea guianensis,-51.39,0.73,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1585,2854,28257,2308354393,EU872881,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1586,2858,28261,2308322416,EU872740,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1587,2861,28264,2308167098,EU872789,Pagamea guianensis,-60.44,-2.76,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1588,2863,28266,2308148992,KU159831,Pagamea guianensis,-60.7,-0.08,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1589,2864,28267,2308141157,EU872618,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1590,2871,28277,2307847506,EU872949,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1591,2874,28281,2307776917,KU159830,Pagamea guianensis,-60.7,-0.08,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1592,2875,28282,2307772840,KU159934,Pagamea guianensis,-51.76,-0.23,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1593,2877,28284,2307732010,EU872739,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1594,2880,28288,2307577095,KU159828,Pagamea guianensis,-60.97,-1.5,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1595,2881,28289,2307574865,KU159779,Pagamea guianensis,-60.93,-1.45,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1596,2883,28292,2307528626,EU872615,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1597,2886,28295,2307444441,KU159820,Pagamea guianensis,-60.91,-1.62,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1598,2904,28315,2307025468,KU159823,Pagamea guianensis,-60.64,-2.5,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1599,2906,28317,2306879797,KU159834,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1600,2915,28330,2306611796,KU159821,Pagamea guianensis,-60.91,-1.62,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1601,2921,28336,2306443828,EU872944,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1602,2925,28340,2306214154,KU159929,Pagamea guianensis,-51.62,-0.05,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1603,2929,28346,2306042807,EU872945,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1604,2948,28367,2305565750,KU159833,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1605,2950,28369,2305500660,KU159824,Pagamea guianensis,-60.64,-2.5,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1606,2961,28381,2305207560,KU159871,Pagamea guianensis,-53.62,-1.64,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1607,2967,28388,2304990073,KU159835,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1608,2968,28390,2304917816,KU160106,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1609,2972,28395,2304798643,KU159829,Pagamea guianensis,-60.97,-1.5,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1610,2983,28410,2304552409,KU159832,Pagamea guianensis,-60.1,-3.04,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1611,2985,28412,2304472338,KU159928,Pagamea guianensis,-51.52,-0.08,Tropical & Subtropical Moist Broadleaf Forests,Uatumã-Trombetas moist forests
+1743,2790,28175,2310452645,EU872906,Pagamea guianensis,-77.79,-4.68,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1744,2797,28183,2310270573,EU872901,Pagamea guianensis,-77.78,-4.67,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1745,2885,28294,2307463786,EU872813,Pagamea guianensis,-77.79,-4.68,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1746,2895,28305,2307221703,EU872647,Pagamea guianensis,-77.78,-4.67,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1747,2912,28326,2306649861,EU872649,Pagamea guianensis,-77.79,-4.68,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1748,2927,28342,2306199925,EU872651,Pagamea guianensis,-77.84,-4.64,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1749,2952,28371,2305442632,EU872812,Pagamea guianensis,-77.78,-4.67,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1750,2957,28377,2305297459,EU872650,Pagamea guianensis,-77.79,-4.68,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1751,2962,28382,2305151571,EU872648,Pagamea guianensis,-77.78,-4.67,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+2059,2781,28163,2310818452,EU872883,Pagamea guianensis,-49.97,-2.13,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2060,2782,28164,2310799489,KU159941,Pagamea guianensis,-50.97,-2.38,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2061,2808,28200,2309861934,KU159943,Pagamea guianensis,-50.97,-2.38,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2062,2812,28205,2309771698,KU159942,Pagamea guianensis,-50.97,-2.38,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2063,2843,28245,2308687532,EU872583,Pagamea guianensis,-49.97,-2.13,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2064,2855,28258,2308344771,EU872744,Pagamea guianensis,-49.97,-2.13,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2065,2869,28274,2308018443,KU159940,Pagamea guianensis,-50.97,-2.38,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2066,2870,28276,2307851841,EU872584,Pagamea guianensis,-49.97,-2.13,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2067,2953,28372,2305419734,KU159926,Pagamea guianensis,-52.4,-4.72,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2068,2958,28378,2305239195,KU159925,Pagamea guianensis,-52.4,-4.72,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2069,2959,28379,2305218208,KU159924,Pagamea guianensis,-52.4,-4.72,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2070,2973,28396,2304775479,KU159840,Pagamea guianensis,-52.39,-4.71,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+2071,2980,28404,2304660302,KU159927,Pagamea guianensis,-52.4,-4.72,Tropical & Subtropical Moist Broadleaf Forests,Xingu-Tocantins-Araguaia moist forests
+659,3639,29627,2310853666,KF776095,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+660,3641,29629,2309793232,KF775971,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+661,3645,29633,2308909330,KF776039,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+662,3646,29634,2308893761,KF775853,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+663,3648,29636,2308466237,KF775679,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+664,3649,29637,2307494831,KF775798,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+665,3650,29638,2307026456,KF775745,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+666,3651,29639,2306953737,KF775633,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+667,3653,29641,2306343245,KF775910,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+668,3657,29645,2305099046,KF775754,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+669,3659,29647,2304821515,KF776025,Socratea exorrhiza,-75.1109,-7.4972,Tropical & Subtropical Moist Broadleaf Forests,Iquitos várzea
+937,3670,29669,2307924757,KJ540580,Socratea salazarii,-74.5866,-3.6254,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+938,3676,29675,2305379301,KJ540582,Socratea salazarii,-74.5236,-3.7313,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+939,3677,29676,2305375029,KJ540592,Socratea salazarii,-74.5866,-3.6254,Tropical & Subtropical Moist Broadleaf Forests,Napo moist forests
+1311,3661,29660,2311118733,KJ540559,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1312,3662,29661,2310691313,KJ540552,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1313,3663,29662,2310580484,KJ540609,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1314,3664,29663,2310315584,KF775855,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1315,3665,29664,2310068957,KF776038,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1316,3666,29665,2309794036,KJ540579,Socratea salazarii,-73.8901,-9966,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1317,3667,29666,2309632269,KF775972,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1318,3668,29667,2308720454,KJ540567,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1319,3669,29668,2308537248,KJ540608,Socratea salazarii,-73.8901,-9966,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1320,3671,29670,2307683217,KF775682,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1321,3672,29671,2307614507,KJ540585,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1322,3673,29672,2307233439,KF775908,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1323,3674,29673,2307115570,KF775797,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1324,3675,29674,2306267360,KJ540544,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1325,3678,29677,2305177903,KJ540596,Socratea salazarii,-73.8901,-9966,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1326,3679,29678,2304863718,KF775747,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1327,3680,29679,2304648018,KJ540595,Socratea salazarii,-73.8018,-5.0237,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1328,3681,29680,2304252049,KF775631,Socratea salazarii,-73.7654,-10.8157,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1042,3859,30268,2311194851,KR055923,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1043,3865,30276,2310983181,KR081836,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1044,3867,30278,2310790147,KP964216,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1045,3876,30290,2310300185,KR076213,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1046,3880,30294,2310285322,KR026138,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1047,3900,30316,2309791762,KR076214,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1048,3901,30317,2309747327,KR055926,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1049,3905,30321,2309535626,KR076212,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1050,3912,30329,2309383099,KR055927,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1051,3913,30330,2309370348,KP964218,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1052,3914,30331,2309334684,KR055922,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1053,3915,30332,2309271934,KR076215,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1054,3919,30336,2309175208,KR076216,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1055,3926,30345,2308798290,KP964215,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1056,3938,30357,2308614422,KP964217,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1057,3951,30370,2308265076,KR076217,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1058,3964,30385,2307859918,KR081835,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1059,3968,30391,2307664382,KR055925,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1060,3969,30392,2307650282,KR081831,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1061,3978,30402,2307372421,KR026139,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1062,3982,30407,2307241633,KR026142,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1063,3984,30409,2307072017,KR055924,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1064,3988,30415,2306814080,KP964213,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1065,3994,30425,2306413720,KR026140,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1066,3997,30430,2306287819,KP964214,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1067,4005,30446,2305822616,KR081833,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1068,4008,30453,2305656876,KR081832,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1069,4010,30455,2305608418,KR026141,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1070,4020,30473,2304777562,KR081834,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1071,4024,30482,2304561957,KR026143,Spondias mombin,-68.96,-3.47,Tropical & Subtropical Moist Broadleaf Forests,Purus várzea
+1333,3857,30266,2311228668,KR055929,Spondias mombin,-67.75,-10.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1334,3858,30267,2311202814,KR081849,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1335,3860,30269,2311183859,KR076254,Spondias mombin,-67.89,-9.94,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1336,3861,30270,2311171351,KR026178,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1337,3863,30273,2311059807,KR026170,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1338,3868,30279,2310769699,KR055932,Spondias mombin,-67.87,-10.01,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1339,3872,30284,2310536646,KR081851,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1340,3874,30286,2310463368,KR055938,Spondias mombin,-67.89,-9.94,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1341,3875,30287,2310408617,KR026171,Spondias mombin,-67.75,-10.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1342,3878,30292,2310291033,KR055931,Spondias mombin,-67.82,-10.02,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1343,3879,30293,2310287750,KR081843,Spondias mombin,-67.86,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1344,3882,30296,2310233262,KR055937,Spondias mombin,-67.88,-9.95,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1345,3885,30299,2310189896,KR055934,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1346,3887,30302,2310086918,KR026183,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1347,3890,30305,2310012196,KR026175,Spondias mombin,-67.86,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1348,3892,30307,2309996857,KR026174,Spondias mombin,-67.87,-10.01,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1349,3893,30308,2309956585,KR076257,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1350,3895,30311,2309898944,KR081846,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1351,3896,30312,2309896229,KR026181,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1352,3897,30313,2309866912,KR055935,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1353,3899,30315,2309812981,KR055933,Spondias mombin,-67.86,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1354,3904,30320,2309671787,KR081845,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1355,3909,30326,2309449698,KR055936,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1356,3910,30327,2309446593,KR055930,Spondias mombin,-67.77,-10.05,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1357,3911,30328,2309398054,KR026177,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1358,3916,30333,2309258303,KR055928,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1359,3917,30334,2309245895,KR076253,Spondias mombin,-67.88,-9.95,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1360,3918,30335,2309184134,KR026182,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1361,3920,30337,2309124516,KR076250,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1362,3921,30339,2309026323,KR081841,Spondias mombin,-67.82,-10.02,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1363,3923,30341,2308934169,KR081848,Spondias mombin,-67.89,-9.94,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1364,3924,30342,2308924806,KR055939,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1365,3925,30344,2308816741,KR026179,Spondias mombin,-67.88,-9.95,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1366,3928,30347,2308735824,KR076251,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1367,3932,30351,2308698215,KR081844,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1368,3934,30353,2308673966,KR026180,Spondias mombin,-67.89,-9.94,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1369,3935,30354,2308632281,KR081842,Spondias mombin,-67.87,-10.01,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1370,3939,30358,2308608686,KR076246,Spondias mombin,-67.77,-10.05,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1371,3944,30363,2308410955,KR076255,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1372,3946,30365,2308329878,KR081838,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1373,3948,30367,2308304265,KR076252,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1374,3950,30369,2308278621,KP964257,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1375,3952,30371,2308191074,KR081847,Spondias mombin,-67.88,-9.95,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1376,3953,30373,2308123540,KR026176,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1377,3954,30374,2308102019,KR076248,Spondias mombin,-67.87,-10.01,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1378,3955,30376,2308014336,KR076256,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1379,3956,30377,2308010838,KP964249,Spondias mombin,-67.82,-10.02,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1380,3959,30380,2307961558,KR081850,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1381,3960,30381,2307945846,KR026173,Spondias mombin,-67.82,-10.02,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1382,3961,30382,2307931928,KR026172,Spondias mombin,-67.77,-10.05,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1383,3962,30383,2307898790,KR081840,Spondias mombin,-67.77,-10.05,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1384,3965,30386,2307841789,KR076247,Spondias mombin,-67.82,-10.02,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1385,3970,30393,2307641336,KR081839,Spondias mombin,-67.75,-10.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1386,3971,30395,2307577726,KP964248,Spondias mombin,-67.77,-10.05,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1387,3976,30400,2307402384,KP964255,Spondias mombin,-67.88,-9.95,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1388,3979,30403,2307370528,KR076249,Spondias mombin,-67.86,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1389,3985,30410,2307027883,KP964259,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1390,3986,30412,2306903656,KP964246,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1391,3992,30422,2306454575,KR055940,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1392,3995,30426,2306409913,KP964252,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1393,3998,30432,2306268657,KP964247,Spondias mombin,-67.75,-10.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1394,3999,30433,2306267870,KP964256,Spondias mombin,-67.89,-9.94,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1395,4002,30440,2305935136,KP964250,Spondias mombin,-67.87,-10.01,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1396,4006,30450,2305712416,KP964258,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1397,4009,30454,2305626927,KP964253,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1398,4013,30461,2305164991,KP964251,Spondias mombin,-67.86,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1399,4016,30467,2304952726,KR076244,Spondias mombin,-67.85,-9.97,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1400,4019,30472,2304778262,KR076245,Spondias mombin,-67.75,-10.1,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1401,4026,30485,2304405996,KP964254,Spondias mombin,-67.87,-9.96,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1402,4029,30489,2304281488,KR055941,Spondias mombin,-69.36,-10.76,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+441,4340,31034,2311200366,KX572492,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+442,4341,31035,2311174408,KX572465,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+443,4343,31037,2311161406,KX572447,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+444,4345,31039,2310983558,KX572440,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+445,4346,31040,2310935061,KX572457,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+446,4347,31041,2310920539,KX572453,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+447,4348,31042,2310823853,KX572455,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+448,4350,31044,2310783527,KX572450,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+449,4351,31045,2310685850,KX572460,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+450,4352,31046,2310669162,KX572497,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+451,4354,31048,2310575040,KX572468,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+452,4356,31050,2310497735,KX572491,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+453,4360,31054,2310405107,KX572495,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+454,4364,31058,2310331578,KX572451,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+455,4365,31059,2310322635,KX572462,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+456,4366,31060,2310247597,KX572499,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+457,4368,31062,2310104915,KX572446,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+458,4369,31063,2310055463,KX572448,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+459,4370,31064,2310028704,KX572445,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+460,4373,31067,2309981246,KX572443,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+461,4377,31071,2309893879,KX572490,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+462,4378,31072,2309760106,KX572469,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+463,4380,31074,2309512721,KX572467,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+464,4381,31075,2309494271,KX572498,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+465,4382,31076,2309396600,KX572466,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+466,4383,31077,2309311549,KX572461,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+467,4386,31080,2309127994,KX572463,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+468,4387,31081,2309119918,KX572456,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+469,4388,31082,2309086954,KX572496,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+470,4389,31083,2309076067,KX572444,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+471,4391,31085,2309052665,KX572442,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+472,4393,31087,2308782098,KX572441,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+473,4395,31089,2308637033,KX572449,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+474,4396,31090,2308616268,KX572459,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+475,4397,31091,2308501266,KX572454,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+476,4398,31092,2308452831,KX572475,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+477,4399,31093,2308426862,KX572507,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+478,4400,31094,2308346656,KX572452,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+479,4403,31097,2308218261,KX572472,Symphonia globulifera,-52.94,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+480,4404,31098,2308194651,KX572494,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+481,4405,31099,2308049879,KX572477,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+482,4407,31101,2307950496,KX572493,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+483,4409,31103,2307906060,KX572464,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+484,4413,31107,2307804752,KX572488,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+485,4415,31109,2307736167,KX572458,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+486,4418,31112,2307642234,KX572426,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+487,4419,31113,2307606287,KX572489,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+488,4421,31115,2307532932,KX572431,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+489,4422,31116,2307510930,KX572501,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+490,4423,31117,2307493260,KX572479,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+491,4424,31118,2307488299,KX572509,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+492,4427,31121,2307289693,KX572432,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+493,4429,31123,2307250744,KX572438,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+494,4430,31124,2307249697,KX572424,Symphonia globulifera,-52.92,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+495,4431,31125,2307139221,KX572425,Symphonia globulifera,-52.92,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+496,4432,31126,2307026177,KX572502,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+497,4433,31127,2306948721,KX572484,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+498,4435,31129,2306889927,KX572481,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+499,4436,31130,2306867611,KX572514,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+500,4437,31131,2306759284,KX572483,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+501,4438,31132,2306725148,KX572516,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+502,4440,31134,2306617803,KX572422,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+503,4441,31135,2306567203,KX572513,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+504,4444,31138,2306380554,KX572439,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+505,4446,31140,2306360600,KX572436,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+506,4447,31141,2306339648,KX572476,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+507,4448,31142,2306258764,KX572433,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+508,4449,31143,2306229584,KX572504,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+509,4451,31145,2306068208,KX572428,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+510,4452,31146,2306054988,KX572482,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+511,4453,31147,2306024001,KX572500,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+512,4454,31148,2306010754,KX572510,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+513,4455,31149,2305958293,KX572429,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+514,4457,31151,2305794327,KX572434,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+515,4458,31152,2305703101,KX572430,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+516,4460,31154,2305644967,KX572423,Symphonia globulifera,-52.92,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+517,4462,31156,2305488545,KX572511,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+518,4463,31157,2305430694,KX572474,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+519,4464,31158,2305412072,KX572470,Symphonia globulifera,-52.93,5.28,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+520,4465,31159,2305397030,KX572503,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+521,4466,31160,2305268868,KX572485,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+522,4467,31161,2305238773,KX572512,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+523,4468,31162,2305215548,KX572478,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+524,4469,31163,2305030951,KX572473,Symphonia globulifera,-52.94,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+525,4470,31164,2304948625,KX572421,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+526,4472,31166,2304802443,KX572508,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+527,4473,31167,2304802134,KX572427,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+528,4474,31168,2304756227,KX572506,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+529,4475,31169,2304755105,KX572435,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+530,4476,31170,2304664505,KX572480,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+531,4477,31171,2304597628,KX572505,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+532,4479,31173,2304411160,KX572486,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+533,4480,31174,2304399945,KX572437,Symphonia globulifera,-52.94,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+534,4481,31175,2304370366,KX572487,Symphonia globulifera,-52.93,5.27,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+535,4482,31176,2304361989,KX572515,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+536,4484,31178,2304178680,KX572471,Symphonia globulifera,-52.93,5.26,Tropical & Subtropical Moist Broadleaf Forests,Guianan lowland moist forests
+1414,4806,31734,2311229559,KF775999,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1415,4807,31735,2311221689,KF775777,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1416,4808,31736,2311204435,KF776110,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1417,4809,31737,2311190263,KF775978,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1418,4810,31738,2311085187,KF775862,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1419,4811,31739,2310881921,KF776111,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1420,4812,31740,2310734888,KF775996,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1421,4813,31741,2310591665,KF776049,Wettinia augusta,-75.0768,-7.0367,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1422,4814,31742,2310286758,KF775642,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1423,4817,31745,2309913998,KF775863,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1424,4818,31746,2309413086,KF775861,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1425,4819,31747,2309271855,KF775732,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1426,4820,31748,2309106015,KF775639,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1427,4821,31749,2308945262,KF775718,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1428,4822,31750,2308888220,KF776112,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1429,4823,31751,2308863249,KF775778,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1430,4824,31752,2308700105,KF775973,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1431,4826,31754,2308561848,KF775976,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1432,4827,31755,2308328360,KF775774,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1433,4828,31756,2308204910,KF775614,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1434,4830,31758,2308106334,KF775859,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1435,4832,31760,2308018957,KF775772,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1436,4833,31761,2307958860,KF775809,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1437,4834,31762,2307765908,KF775644,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1438,4835,31763,2307675870,KF775825,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1439,4837,31765,2307352393,KF775979,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1440,4839,31767,2306947808,KF775665,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1441,4840,31768,2306919702,KF775790,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1442,4841,31769,2306882519,KF775615,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1443,4842,31770,2306664949,KF776108,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1444,4844,31772,2305825648,KF775613,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1445,4845,31773,2305825592,KF775901,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1446,4846,31774,2305801072,KF776050,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1447,4847,31775,2305721002,KF776058,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1448,4848,31776,2305619516,KF775902,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1449,4850,31778,2305301996,KF775717,Wettinia augusta,-73.7422,-4.9719,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1450,4851,31779,2305301270,KF776012,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1451,4852,31780,2304714422,KF775716,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1452,4853,31781,2304714302,KF775903,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1453,4854,31782,2304373629,KF776057,Wettinia augusta,-75.0877,-7.0286,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1454,4855,31783,2304357396,KF775953,Wettinia augusta,-73.7711,-10.7651,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1455,4856,31784,2304299378,KF775826,Wettinia augusta,-75.0768,-7.0377,Tropical & Subtropical Moist Broadleaf Forests,Southwest Amazon moist forests
+1753,4815,31743,2310167933,KF775729,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1754,4816,31744,2310015109,KF775764,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1755,4825,31753,2308634551,KF775803,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1756,4829,31757,2308116095,KF775640,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1757,4831,31759,2308045440,KF775860,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1758,4836,31764,2307397300,KF776109,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1759,4838,31766,2307044563,KF776065,Wettinia augusta,-74.1962,-9.8848,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1760,4843,31771,2306397387,KF775952,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
+1761,4849,31777,2305322719,KF775964,Wettinia augusta,-74.1962,-9.8988,Tropical & Subtropical Moist Broadleaf Forests,Ucayali moist forests
